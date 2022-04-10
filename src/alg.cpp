@@ -99,4 +99,4 @@ int eval(std::string pref) {
   result = stackB.get();
   return result;
 }
-}
+};
