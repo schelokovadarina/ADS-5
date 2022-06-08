@@ -4,6 +4,5 @@
 
 template<typename T, int size>
 class TStack {
-
 };
 #endif  // INCLUDE_TSTACK_H_
